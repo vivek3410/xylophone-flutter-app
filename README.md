@@ -1,16 +1,22 @@
-# xylophone
+# 🎯 Flutter DICEE
 
-A new Flutter project.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+To run this project locally:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repo**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/vivek3410/xylophone-flutter-app.git
+cd xylophone-flutter-app
+
+flutter pub get
+
+flutter run
+```
+
+### Ouput
+<img src="outputs/output.jpeg" width="300" alt="App Screenshot">
